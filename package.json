@@ -1,0 +1,30 @@
+{
+  "name": "sprint2024npmdemo1",
+  "version": "1.0.0",
+  "description": "demo work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prawstho/Sprint2024NpmDemo1.git"
+  },
+  "keywords": [
+    "demo",
+    "npm",
+    "packages"
+  ],
+  "author": "Peter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prawstho/Sprint2024NpmDemo1/issues"
+  },
+  "homepage": "https://github.com/prawstho/Sprint2024NpmDemo1#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "crc": "^4.3.2",
+    "express": "^4.19.2",
+    "moment": "^2.30.1"
+  }
+}
